@@ -55,4 +55,4 @@ app.listen(7000, async () => {
 });
 
 
-module.exports = app;
+export default app;
