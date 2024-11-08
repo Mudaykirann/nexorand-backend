@@ -54,5 +54,3 @@ app.listen(7000, async () => {
   await connectDb();
 });
 
-
-export default app;
